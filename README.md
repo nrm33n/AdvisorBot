@@ -18,4 +18,4 @@ g++ <program_name> <source files.cpp>
 ./program_name
 ```
 
-Alternatively, if using Microsoft Visual Studio, run without debugging. 
+Alternatively, if using Microsoft Visual Studio, use Ctrl+F5 to run without debugging. 
