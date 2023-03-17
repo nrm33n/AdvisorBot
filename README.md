@@ -3,8 +3,9 @@
 A command line-based money management advisor that analyses and predicts cyrptocurrency market trends based on real-world data.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/84393679/214247062-b0d025d8-5276-4b5e-b228-775a31e6019b.png" width=700 height=300>
+<img src="https://user-images.githubusercontent.com/84393679/225978817-dc1218ee-b482-48bd-816f-2f6ec6b2b5e7.gif" width=700 height=300>
 </p>
+
 
 ### 1. Compile 
 
