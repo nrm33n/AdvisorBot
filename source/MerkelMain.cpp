@@ -166,4 +166,3 @@ void MerkelMain::processUserOption(const char* userInput)
     
 
 }
-j
