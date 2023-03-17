@@ -3,7 +3,7 @@
 
 /// <summary>
 /// if it is an ask, u are losing currency a and gaining currency b
-/// if bid, you are gaining currency a and losing currency b
+/// if bid., you are gaining currency a and losing currency b
 /// eg OrderBookType::asksale on product ETH/BTC, lose ETH, gain BTC
 /// </summary>
 enum class OrderBookType { bid, ask, unknown, asksale, bidsale };
