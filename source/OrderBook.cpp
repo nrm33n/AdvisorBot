@@ -138,4 +138,4 @@ void OrderBook::backwardsOrder(OrderBookEntry& order)
 {
 	orders.push_back(order);
 	std::sort(orders.begin(), orders.end(), OrderBookEntry::timestampDesc);
-}j
+}
